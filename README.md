@@ -12,4 +12,4 @@ The answers are simple.
 
 Have fun!
 
-Any bugs please report them to: 
+Any bugs please report them to: https://github.com/dragonflame86/noicebridging-fabric
