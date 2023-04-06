@@ -1,4 +1,4 @@
-# noicebridging-fabric
+# No Ice Bridging
 A minecraft mod preventing ice briding in the nether.
 
 The purpose of this mod is to remove nether ice bridging and highways by making ice of all kinds melt when in the nether.
